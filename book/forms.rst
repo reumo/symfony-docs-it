@@ -178,7 +178,7 @@ Questo è tutto! Bastano tre righe per rendere completamente il form:
 ``form_end(form)``
     Rende il tag finale del form e ogni campo che non sia ancora
     stato reso, nel caso in cui i campi siano stati resti singolarmante a mano. È utile
-    per rendere campi nascosci e sfruttare la
+    per rendere campi nascosti e sfruttare la
     :ref:`protezione CSRF <forms-csrf>` automatica.
 
 .. seealso::
